@@ -1,2 +1,2 @@
-- HTML, CSS e JAVA
+- HTML, CSS, JAVA SCRIPT
 - Node, Js, Mongo DB
