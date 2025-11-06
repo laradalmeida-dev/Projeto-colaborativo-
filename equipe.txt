@@ -1,3 +1,4 @@
-Lara Derrian Araújo de Almeida - Membro 1, Gerente de Projeto e Integração
-Evellyn Dantas Nunes Santos - Membro 2, Responsável pelas funcionalidades 
-Maria Eduarda dos Santos Cardoso - Membro 3, Responsável pelas tecnologias
+Lara - Gerente e Líder Técnica
+Evellyn - Desenvolvedora de Funcionalidades
+Duda - Desenvolvedora de Tecnologias
+
